@@ -1,3 +1,16 @@
 {
-    "maven.executable.preferMavenWrapper": "true"
+    "maven.executable.preferMavenWrapper": true,
+    "java.jdt.ls.javac.enabled": "on",
+    "java.jdt.ls.java.home": "/opt/java/temurin-jdk-24",
+    // "java.configuration.runtimes": [
+    //     {
+    //         "name": "JavaSE-21",
+    //         "path": "/usr/lib/jvm/msopenjdk-current",
+    //     },
+    //     {
+    //         "name": "JavaSE-24",
+    //         "path": "/opt/java/temurin-jdk-24",
+    //         "default": true
+    //     },
+    // ]
 }
