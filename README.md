@@ -1,6 +1,7 @@
-# Reproduction vscode java diagnostic bug
-
-In some case the java diagnostic takes the function signature from the wrong class/interface.
+# Reproduction vscode java diagnostic bug 
+ 
+In some case the java diagnostic takes the function signature from the wrong class/interface.  
+https://github.com/redhat-developer/vscode-java/issues/4109
 
 see examples:
 - demo 1: [demo-1/src/main/java/com/example/AB.java](./demo-1/src/main/java/com/example/AB.java)
