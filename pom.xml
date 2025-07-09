@@ -9,7 +9,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>demo</module> 
+        <module>demo-1</module> 
+        <module>demo-2</module>
     </modules>
 
     <dependencyManagement>
